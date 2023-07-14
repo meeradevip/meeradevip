@@ -1,5 +1,6 @@
 # 💫 About Me:
-Passionate data analyst experienced in leveraging Power BI, Python, and SQL to transform complex data into actionable insights. Skilled in data manipulation, visualization, and reporting, with a focus on driving informed decision-making. Proficient in creating interactive dashboards and reports using Power BI, and utilizing Python for data analysis and machine learning tasks. Constantly expanding knowledge and collaborating in cross-functional teams to deliver impactful solutions in the dynamic field of data analytics. Let's unlock the power of data together!
+Passionate data analyst experienced in leveraging Power BI, Python, and SQL to transform complex data into actionable insights. Skilled in data manipulation, visualization, and reporting, with a focus on driving informed decision-making. Proficient in creating interactive dashboards and reports using Power BI, and utilizing Python for data analysis and machine learning tasks. 
+Constantly expanding knowledge and collaborating in cross-functional teams to deliver impactful solutions in the dynamic field of data analytics. Let's unlock the power of data together!
 
 
 ## 🌐 Socials:
